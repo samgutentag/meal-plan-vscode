@@ -1,37 +1,43 @@
 {
   "0": {
-    "breakfast": "",
-    "lunch": "Bagels",
-    "dinner": "Crispy Cabbage Pancakes"
+    "breakfast": "Bagels",
+    "lunch": "Crispy Cabbage Pancakes",
+    "dinner": "Chicken Tikka Masala"
   },
   "1": {
-    "breakfast": "",
-    "lunch": "Bagels",
-    "dinner": "Crispy Cabbage Pancakes"
+    "breakfast": "Bagels",
+    "lunch": "Crispy Cabbage Pancakes",
+    "dinner": "Chicken Tikka Masala"
   },
   "2": {
-    "breakfast": "",
-    "lunch": "Bagels",
-    "dinner": "Crispy Cabbage Pancakes"
+    "breakfast": "Bagels",
+    "lunch": "Crispy Cabbage Pancakes",
+    "dinner": "Dutch Oven Chili"
   },
   "3": {
-    "breakfast": "",
-    "lunch": "Bagels",
-    "dinner": "Breakfast Burritos"
+    "breakfast": "Bagels",
+    "lunch": "Breakfast Burritos",
+    "dinner": "Dutch Oven Chili"
   },
   "4": {
-    "breakfast": "",
-    "lunch": "Bagels",
-    "dinner": "Vegetable Fried Rice"
+    "breakfast": "Bagels",
+    "lunch": "Vegetable Fried Rice",
+    "dinner": "Dutch Oven Chili"
   },
   "5": {
-    "breakfast": "",
-    "lunch": "Bagels",
-    "dinner": ""
+    "breakfast": "Bagels",
+    "lunch": "",
+    "dinner": "Vegetable Fried Rice"
   },
   "6": {
     "breakfast": "",
     "lunch": "",
     "dinner": ""
+  },
+  "today": {
+    "breakfast": "Bagels",
+    "lunch": "Crispy Cabbage Pancakes",
+    "dinner": "Dutch Oven Chili",
+    "Date": "July, 30, 2025"
   }
 }
