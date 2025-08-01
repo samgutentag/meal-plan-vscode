@@ -69,7 +69,7 @@ This will generate a `meal.json` file in the same directory, with the following 
 ## Logic Flow Diagram
 
 ```mermaid
-flowchart TD
+flowchart LR
     A[Start] --> B[Load .env and get GOOGLE_CALENDAR_FEED]
     B --> C[Download iCal feed]
     C --> D[Parse iCal feed]
